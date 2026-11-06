@@ -15,6 +15,8 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 
 ## Project Exposure
 • AI Automation Tools (n8n, Make, Coursiv)
+• AI Tools (Lovable, Magic UI, Figma, Earser, Otter, Notion, Miro, Grok, Claude, ChatGPT, Gemini)
+• Project Management (Excel, MS Project, Project Documents, Reports, Planning, Budgeting, Execution, Closing)
 • ATS – Procurement Hiring & Management
 • Construction Project Claims, Work Tracking & Management
 • Telecom (Orders, Devices, Updates)
@@ -24,22 +26,25 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 • Digital Approvals & Third-Party Integrations - WD Global
 • Online Digital Signing for Documents 
 • Inventory & Logistics (WD Store, Warehouse, Agility, Production Line)
-• Banking (CIMB, Maybank, SME, RHB)
+• Banking (CIMB, Maybank, SME, RHB - Hire Purchase)
 • Government – Educational Board & MTIB
 • Power BI / Tableau BI Dashboards & Reports
 
 ## Featured Projects
 | Project | What I did | Tech |
 |---|---|---|
-| [ATS Hiring Platform](./ats-hiring-platform) | Led design and delivery, added OpenAI job-role generation | ASP.NET Core 6, PostgreSQL, OpenAI |
-| [RPA Automation A360](./rpa-a360-case-study) | 4 days → 7 minutes record processing | Automation Anywhere A360, SQL Server |
-| [Document Management System](./dms-case-study) | Digitized physical documents with QR code access | Web app, QR, warehouse workflow |
-| [Power BI KPI Dashboards](./power-bi-kpi-dashboards) | Project status and KPI reporting | Power BI, Power Apps |
-| [OpenAI Data Extraction](./openai-data-extraction) | Job Posting information Auto feed by Open AI Search | OpenAI, ASP.Net Core, PostgreSQL |
-| [Capital Asset Request - Finance](./western-digital-global-internal-apps) | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
-| [Claim Request Process - Finance](./western-digital-global-internal-apps) | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
-| [First In First Out Logistics, Warehouse](./western-digital-global-internal-apps) | Web Application Implementation & Support | ASP.NET, SQL Server, Oracle|
-| [REST API Services for Apple](./telecom-apps) | Web Application Implementations | ASP.NET, Oracle|
+| [ATS Hiring Platform]() | Led design, architecture, Implementation and delivery, added OpenAI job-role generation | ASP.NET Core 6, PostgreSQL, OpenAI |
+| [Exteno - Construction WBS CLiams]() | Led design, architecture, Implementation and delivery, added plotly dashboards | ASP.NET Core 6, PostgreSQL, Plotly Open Source |
+| [RPA Automation A360]() | 4 days → 7 minutes record processing | Automation Anywhere A360, SQL Server |
+| [Document Management System]() | Warehouse Inventory, Digitized & physical documents with QR code access | Web app, QR, warehouse workflow |
+| [Power BI KPI Dashboards]() | Project status and KPI reporting | Power BI, Excel, PostgreSQL |
+| [Power Apps Internal Task/Approvals]() | Project status and KPI reporting | Power Apps, PostgreSQL |
+| [OpenAI Data Extraction]() | Job Posting information Auto feed by Open AI Search | OpenAI, ASP.Net Core, PostgreSQL |
+| [Capital Asset Request - Finance]() | Full stack Web Application Implementations, Capital Request WD Global | ASP.NET, SQL Server, Oracle|
+| [Claim Request Process - Finance]() | Full stack Web Application Implementations, Expenses, Medical, Allowance WD Global | ASP.NET, SQL Server, Oracle|
+| [First In First Out Logistics, Warehouse]() | Web Application Implementation & Support WD | ASP.NET, SQL Server, Oracle|
+| [REST API Services for Apple]() | Web Application Implementations Telecoms | ASP.NET, Oracle|
+| [Hire Purchase Defaulters]() | VB Application Implementations - LAW Firm | VB.NET, SQL Server, Crystal Reports|
 
 ## Skills
 **Project management:** Agile/Scrum, Waterfall, Risk and Issue Management, Stakeholder Management
