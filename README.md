@@ -17,9 +17,10 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 • AI Automation Tools (n8n, Make, Coursiv)
 • AI Tools (Lovable, Magic UI, Figma, Earser, Otter, Notion, Miro, Grok, Claude, ChatGPT, Gemini)
 • Project Management (Excel, MS Project, Project Documents, Reports, Planning, Budgeting, Execution, Closing)
-• ATS – Procurement Hiring & Management
+• ATS HR – Procurement Hiring & Management
 • Construction Project Claims, Work Tracking & Management
 • Telecom (Orders, Devices, Updates)
+• DB Migration on premise SQL Server to AWS RDS (PostgreSQL)
 • DMS – Document Management System, Warehouse, Digital Copy
 • Automation Anywhere A360 / Agentic RPA
 • Finance – WD Global (Capital Asset, Claims, Payment)
@@ -40,6 +41,7 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 | [Power BI KPI Dashboards]() | Project status and KPI reporting | Power BI, Excel, PostgreSQL |
 | [Power Apps Internal Task/Approvals]() | Project status and KPI reporting | Power Apps, PostgreSQL |
 | [OpenAI Data Extraction]() | Job Posting information Auto feed by Open AI Search | OpenAI, ASP.Net Core, PostgreSQL |
+| [Cloud Migration]() | Led design, Architecture, Migration Process design for SQL Server Database to AWS Cloud DB Migration | AWS RDS PostgreSQL|
 | [Capital Asset Request - Finance]() | Full stack Web Application Implementations, Capital Request WD Global | ASP.NET, SQL Server, Oracle|
 | [Claim Request Process - Finance]() | Full stack Web Application Implementations, Expenses, Medical, Allowance WD Global | ASP.NET, SQL Server, Oracle|
 | [First In First Out Logistics, Warehouse]() | Web Application Implementation & Support WD | ASP.NET, SQL Server, Oracle|
