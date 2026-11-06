@@ -88,4 +88,4 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 English | Hindi | Telugu | Tamil
 
 ## Contact
-Open to opportunities in [Malaysia/Onsite & Remote], [India/Onsite & Remote]
+Email: pattemsrp@gmail.com
