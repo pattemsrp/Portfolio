@@ -13,6 +13,21 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 - 25% faster releases through CI/CD pipelines
 - 30% faster reporting through Power BI dashboards
 
+## Project Exposure
+• AI Automation Tools (n8n, Make, Coursiv)
+• ATS – Procurement Hiring & Management
+• Construction Project Claims, Work Tracking & Management
+• Telecom (Orders, Devices, Updates)
+• DMS – Document Management System, Warehouse, Digital Copy
+• Automation Anywhere A360 / Agentic RPA
+• Finance – WD Global (Capital Asset, Claims, Payment)
+• Digital Approvals & Third-Party Integrations - WD Global
+• Online Digital Signing for Documents 
+• Inventory & Logistics (WD Store, Warehouse, Agility, Production Line)
+• Banking (CIMB, Maybank, SME, RHB)
+• Government – Educational Board & MTIB
+• Power BI / Tableau BI Dashboards & Reports
+
 ## Featured Projects
 | Project | What I did | Tech |
 |---|---|---|
@@ -21,8 +36,9 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 | [Document Management System](./dms-case-study) | Digitized physical documents with QR code access | Web app, QR, warehouse workflow |
 | [Power BI KPI Dashboards](./powerbi-dashboards) | Project status and KPI reporting | Power BI, Power Apps |
 | [RAG Pipeline](./rag-ai-case-study) | Citation-enforced RAG with Azure AI Search | Semantic Kernel, Azure OpenAI |
-| [Capital Asset Request / Claim Request Process Finance] (Western Digital Internal Apps)]| Full stack Web Application Implementations | .Net, SQL Server, Oracle|
-| [First In First Out Logistics, Warehouse] (Western Digital Internal Apps) | Web Application Implementation & Support | ASP.NET, SQL Server, Oracle|
+| [Capital Asset Request - Finance] (Western Digital Global Internal Apps)] | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
+| [Claim Request Process - Finance] (Western Digital Global Internal Apps)] | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
+| [First In First Out Logistics, Warehouse] (Western Digital KL Internal Apps) | Web Application Implementation & Support | ASP.NET, SQL Server, Oracle|
 | [REST API Services for Apple] (Telecom Apps)]| Web Application Implementations | ASP.NET, Oracle|
 
 ## Skills
@@ -46,6 +62,23 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 • 2020 – Automation Anywhere 11.3 Developer
 • 2019 – Presentation Skills & Professional Communication
 • 2018 – Technical Troubleshooting & Decision Making
+
+## Training & Workshops
+• Led client workshops and facilitated use-case discovery sessions for Automation Anywhere A360, driving RPA adoption and business process optimization.
+• Designed and delivered structured, hands-on training programs on Automation Anywhere A360, enabling successful implementation and user proficiency.
+• Partnered with stakeholders to translate business requirements into scalable RPA solutions, accelerating automation maturity across functions.
+• Provided post-implementation guidance and best-practice advisory ensuring sustained platform utilization and measurable operational efficiency gains.
+
+## Awards & Recognition
+• Quick Support for Finance Applications – Maria Vivian Magtagnob, Philippines (2018)
+• Innovative & Reliable Finance Claim Application – Wong Cheng Cheng, Malaysia (2017)
+• Ministry of Foreign Affairs – Good Conduct, Malaysia (2016)
+• Robust Financial Claims Applications – Udom Kaewphap, Thailand (2016)
+• Fast & Reliable Warehouse / Logistics Apps – Phattharawath W, Thailand (2015)
+• Consistent & Reliable Capital Requisition (CRB) Application – Gary Meister, Irvine USA (2014)
+
+## Languages
+English | Hindi | Telugu | Tamil
 
 ## Contact
 Open to opportunities in [Malaysia/Onsite & Remote], [India/Onsite & Remote]
