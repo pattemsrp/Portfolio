@@ -34,12 +34,12 @@ specialize in RPA (Automation Anywhere A360), AI integration and BI dashboards.
 | [ATS Hiring Platform](./ats-hiring-platform) | Led design and delivery, added OpenAI job-role generation | ASP.NET Core 6, PostgreSQL, OpenAI |
 | [RPA Automation A360](./rpa-a360-case-study) | 4 days → 7 minutes record processing | Automation Anywhere A360, SQL Server |
 | [Document Management System](./dms-case-study) | Digitized physical documents with QR code access | Web app, QR, warehouse workflow |
-| [Power BI KPI Dashboards](./powerbi-dashboards) | Project status and KPI reporting | Power BI, Power Apps |
-| [RAG Pipeline](./rag-ai-case-study) | Citation-enforced RAG with Azure AI Search | Semantic Kernel, Azure OpenAI |
-| [Capital Asset Request - Finance] (Western Digital Global Internal Apps)] | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
-| [Claim Request Process - Finance] (Western Digital Global Internal Apps)] | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
-| [First In First Out Logistics, Warehouse] (Western Digital KL Internal Apps) | Web Application Implementation & Support | ASP.NET, SQL Server, Oracle|
-| [REST API Services for Apple] (Telecom Apps)]| Web Application Implementations | ASP.NET, Oracle|
+| [Power BI KPI Dashboards](./power-bi-kpi-dashboards) | Project status and KPI reporting | Power BI, Power Apps |
+| [OpenAI Data Extraction](./openai-data-extraction) | Job Posting information Auto feed by Open AI Search | OpenAI, ASP.Net Core, PostgreSQL |
+| [Capital Asset Request - Finance](./western-digital-global-internal-apps) | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
+| [Claim Request Process - Finance](./western-digital-global-internal-apps) | Full stack Web Application Implementations | ASP.NET, SQL Server, Oracle|
+| [First In First Out Logistics, Warehouse](./western-digital-global-internal-apps) | Web Application Implementation & Support | ASP.NET, SQL Server, Oracle|
+| [REST API Services for Apple](./telecom-apps) | Web Application Implementations | ASP.NET, Oracle|
 
 ## Skills
 **Project management:** Agile/Scrum, Waterfall, Risk and Issue Management, Stakeholder Management
